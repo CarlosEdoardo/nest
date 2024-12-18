@@ -26,7 +26,7 @@
   "dependencies": {
     "@nestjs/common": "10.x",
     "@nestjs/core": "10.x",
-    "@nestjs/platform-express": "10.x",
+    "@nestjs/platform-express": "10.4.14",
     "delay": "6.x",
     "reflect-metadata": "0.2.0",
     "rxjs": "7.x",
